@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(103, 111, 84);
+}
+
+.icons-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icons-container a {
+    padding: 20px;
+}
+
+.icons-container a svg {
+    width: 120px;
+    fill: rgb(121, 180, 169);
+}
+
+.icons-container a:hover svg {
+    fill: rgb(189, 228, 168)
+}
