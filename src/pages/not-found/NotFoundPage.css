@@ -1,0 +1,10 @@
+.not-found-page-container {
+    color: #D00000;
+    font-weight: bold;
+    font-size: 80px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
